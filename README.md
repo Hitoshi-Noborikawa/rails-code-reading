@@ -15,3 +15,11 @@ self.class.method(:_default_attributes).source_location
 ["/Users/xxx/ruby/3.3.4/lib/ruby/gems/3.3.0/gems/activerecord-8.0.2/lib/active_record/attributes.rb",
  241]
 ```
+
+他にも便利なメソッド、方法があれば教えてください！
+
+## トピック
+- [ ] active_record
+  - [x] save
+  - [x] update
+  - [ ] where
