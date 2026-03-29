@@ -22,4 +22,19 @@ self.class.method(:_default_attributes).source_location
 - [ ] active_record
   - [x] save
   - [x] update
-  - [ ] where
+  - [x] where
+  - [ ] find
+  - [ ] find_by
+  - [ ] first / last
+  - [ ] limit
+  - [ ] exists?
+  - [ ] pluck
+  - [ ] order
+  - [ ] joins
+  - [ ] includes
+    - [ ] preload
+    - [ ] eager_load
+  - [ ] exec_queries
+  - [ ] build_arel
+  - [ ] arel
+  - [ ] to_sql
