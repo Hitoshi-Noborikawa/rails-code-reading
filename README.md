@@ -23,8 +23,8 @@ self.class.method(:_default_attributes).source_location
   - [x] save
   - [x] update
   - [x] where
-  - [ ] find
-  - [ ] find_by
+  - [x] find
+  - [x] find_by
   - [ ] first / last
   - [ ] limit
   - [ ] exists?
